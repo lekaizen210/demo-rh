@@ -1,0 +1,4 @@
+[submodule "lekaizen210/hr_13_module"]
+	path = lekaizen210/hr_13_module
+	url = git@github.com:lekaizen210/hr_13_module.git
+	branch = master
